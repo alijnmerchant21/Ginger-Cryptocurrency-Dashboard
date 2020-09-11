@@ -4,7 +4,7 @@
 
 &&Ginger
 
-![Ginger](https://github.com/alijnmerchant21/Ginger-Cryptocurrency-Dashboard/blob/master/Images/ginger.jpg | width = "100" height = "100")
+![](https://github.com/alijnmerchant21/Ginger-Cryptocurrency-Dashboard/blob/master/Images/ginger.jpg){:height="100px" width="100px"}
 
 
 **Architecture**
