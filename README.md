@@ -10,10 +10,10 @@
 
 **Working of Ginger**
 
-→ The browser sends a request for cryptocurrency dashboard to be displayed.
-→ The backend (node.js) fetches the cryptocurrency information through Coingecko API.
-→ A JSON response is sent back to the backend. (node.js)
-→ Finally, a HTML page is rendered on the browser.
+→ The browser sends a request for cryptocurrency dashboard to be displayed. <br>
+→ The backend (node.js) fetches the cryptocurrency information through Coingecko API. <br>
+→ A JSON response is sent back to the backend. (node.js) <br>
+→ Finally, a HTML page is rendered on the browser. <br>
 
 <img src="https://github.com/alijnmerchant21/Ginger-Cryptocurrency-Dashboard/blob/master/Images/Output.png" width="800">
 
