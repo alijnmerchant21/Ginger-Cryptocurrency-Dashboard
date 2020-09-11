@@ -4,7 +4,7 @@
 
 &&Ginger
 
-![Ginger](images/ginger.jpg?raw=true "Ginger")
+![Ginger](https://github.com/alijnmerchant21/Ginger-Cryptocurrency-Dashboard/blob/master/Images/ginger.jpg | width = "100" height = "100")
 
 
 **Architecture**
