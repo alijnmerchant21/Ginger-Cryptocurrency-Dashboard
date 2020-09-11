@@ -3,7 +3,8 @@
 *A step by step tutorial to build your own crypto currency dashboard and deploy it to server.*
 
 &&Ginger
-![Ginger](relative/path/to/img.jpg?raw=true "Ginger")
+
+![Ginger](images/ginger.jpg?raw=true "Ginger")
 
 
 **Architecture**
